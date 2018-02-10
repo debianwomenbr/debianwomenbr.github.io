@@ -20,6 +20,9 @@ hr {
 a {
     color: #d00a50;
 }
+p {
+    font-size: 1.3em;
+}
 .row {
     padding-top: 50px;
 }
